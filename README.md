@@ -11,7 +11,7 @@
 
 - 🔍 Open to exciting opportunities in software development
 
-- 📫 How to reach me **bazedMMII**
+- 📫 How to reach me **bazeed.gul@txend.com**
 
 - ⚡ Fun fact **I am Cricket Lover !!**
 
