@@ -1,5 +1,7 @@
-Hi 👋, I'm Bazed Gul
-💻 Software Engineer | Backend & Frontend Developer
+                                                                                                  Hi 👋, I'm Bazed Gul
+                                                                                  💻 Software Engineer | Backend & Frontend Developer
+
+                                                                                  
 🎓 Recent Graduate in Software Engineering | University of Lahore **
 
 🌍 Passionate about building efficient and scalable web applications **
